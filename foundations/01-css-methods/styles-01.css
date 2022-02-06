@@ -1,0 +1,9 @@
+/* exercise 01 stylesheet styles-01.css */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    text-emphasis: bold;
+}
